@@ -50,22 +50,21 @@ Para resolver este problema, asumimos que la virtualización Intel ya está habi
 
 4. **Deshabilitar características de Windows**
    - Vaya a "Agregar o quitar características de Windows".
+
+<img src="https://github.com/user-attachments/assets/43a0f566-0c9b-46b8-894c-0030be1ea434" alt="Windows Features" width="500" />
+
    - Desactive las siguientes opciones:
      - Hyper-V
      - Plataforma de máquina virtual
      - Plataforma de windows hypervisor
 
-   <img src="https://github.com/user-attachments/assets/43a0f566-0c9b-46b8-894c-0030be1ea434" alt="Windows Features" width="500" />
-
-5. **Reiniciar y verificar**
+   <img src="https://github.com/user-attachments/assets/0b0478b0-75ce-4a9f-8684-73b26e597bba" alt="Windows Features" width="500" />
+   
+4. **Reiniciar y verificar**
    - Reinicie el equipo.
    - Abra `cmd`, ejecute `systeminfo` y confirme que aparece la siguiente información:
-
-     ```
-     A hypervisor has not been detected. Features required for Hyper-V will not be displayed.
-     ```
-
-   <img src="https://github.com/user-attachments/assets/0dfb356f-c5ff-4f96-88ac-0a8f6f92768f" alt="Systeminfo Verification" width="500" />
+     
+<img src="https://github.com/user-attachments/assets/0dfb356f-c5ff-4f96-88ac-0a8f6f92768f" alt="Systeminfo Verification" />
 
 ---
 
