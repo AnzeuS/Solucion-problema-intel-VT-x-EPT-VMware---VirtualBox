@@ -120,7 +120,7 @@ Para resolver este problema, asumimos que la virtualización Intel ya está habi
 
 ---
 
-## Problema resuelto:
+## Issue Solved / Problema resuelto:
 
 VMware
 <img src="https://github.com/user-attachments/assets/578514d7-62a4-4d09-866c-5161c74b3378" alt="Intel VT-x/EPT VMware issue solved" width="500" />
