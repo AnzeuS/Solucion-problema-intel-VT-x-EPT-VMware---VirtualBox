@@ -118,7 +118,11 @@ Para resolver este problema, asumimos que la virtualización Intel ya está habi
 
 ---
 
-## Y el problema ya deberia estar resuelto
- 
+## Problema resuelto:
 
-![image](https://github.com/user-attachments/assets/a71cfb6c-ec15-4f80-9e19-877bf60875c4)
+VMware
+![Intel VT-x/EPT VMware issue solved](https://github.com/user-attachments/assets/578514d7-62a4-4d09-866c-5161c74b3378)
+
+
+Oracle VirtualBox
+![image Oracle VirtualBox issue Solved](https://github.com/user-attachments/assets/a71cfb6c-ec15-4f80-9e19-877bf60875c4)
