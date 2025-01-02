@@ -14,7 +14,7 @@ Esta guía describe como solucionar el problema relacionado con la opción de vi
 ---
 
 ## Introducción
-Para resolver este problema, asumimos que la virtualización Intel ya está habilitada en la BIOS. Si el problema persiste, siga los pasos detallados a continuación.
+Para resolver este problema, asumimos que la virtualización de Intel ya está habilitada en la BIOS. Si el problema persiste, siga los pasos detallados a continuación.
 
 ---
 
