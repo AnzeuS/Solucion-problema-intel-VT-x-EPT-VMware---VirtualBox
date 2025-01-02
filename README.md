@@ -32,7 +32,7 @@ To solve this issue, we assume that Intel virtualization is already enabled in t
    - Press `Windows + R`, type `gpedit.msc`, and navigate to the following option:
 
      ```
-     Computer Configuration > Administrative Templates > System > Virtualization > Turn off Hyper-V
+     Computer Configuration > Administrative Templates > System > Device Guard > Virtualization Based Security
      ```
    - Disable it.
 
@@ -41,9 +41,9 @@ To solve this issue, we assume that Intel virtualization is already enabled in t
 4. **Disable Windows features**
    - Go to "Add or Remove Windows Features".
    - Turn off the following options:
-     - Virtual Machine Platform
      - Hyper-V
-     - Windows Container
+     - Windows Hypervisor Platform
+     - Virtual Machine Platform
 
    ![Windows Features](https://github.com/user-attachments/assets/43a0f566-0c9b-46b8-894c-0030be1ea434)
 
@@ -101,10 +101,9 @@ Para resolver este problema, asumimos que la virtualización Intel ya está habi
 4. **Deshabilitar características de Windows**
    - Vaya a "Agregar o quitar características de Windows".
    - Desactive las siguientes opciones:
-     - Plataforma de máquina virtual
      - Hyper-V
-     - Contenedor de Windows
-
+     - Plataforma de máquina virtual
+     - Plataforma de windows hypervisor
    ![Windows Features](https://github.com/user-attachments/assets/43a0f566-0c9b-46b8-894c-0030be1ea434)
 
 5. **Reiniciar y verificar**
@@ -119,4 +118,7 @@ Para resolver este problema, asumimos que la virtualización Intel ya está habi
 
 ---
 
+## Y el problema ya deberia estar resuelto
+ 
 
+![image](https://github.com/user-attachments/assets/a71cfb6c-ec15-4f80-9e19-877bf60875c4)
