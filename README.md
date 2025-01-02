@@ -2,7 +2,10 @@
 
 This guide describes the solution to an issue related to Intel VT-x/EPT virtualization. It was tested on Windows 11 Pro with an Intel i5 12th generation processor.
 
+VMware Workstation
 <img src="https://github.com/user-attachments/assets/ba3b7b48-b1bb-4af9-bb0c-085330b6de2e" alt="Intel VT-x/EPT VMware Issue" width="500" />
+
+Oracle VirtualBox
 <img src="https://github.com/user-attachments/assets/981ecee1-af95-4696-a9bc-50f19d41efc9" alt="Intel VT-x/EPT VirtualBox Issue" width="500" />
 
 ---
@@ -67,7 +70,10 @@ To solve this issue, we assume that Intel virtualization is already enabled in t
 
 Esta guía describe la solución a un problema relacionado con la virtualización Intel VT-x/EPT. Fue probada en Windows 11 Pro con un procesador Intel i5 de 12ª generación.
 
+VMware Workstation
 <img src="https://github.com/user-attachments/assets/ba3b7b48-b1bb-4af9-bb0c-085330b6de2e" alt="Intel VT-x/EPT problema error" width="500" />
+
+Oracle VirtualBox
 <img src="https://github.com/user-attachments/assets/981ecee1-af95-4696-a9bc-50f19d41efc9" alt="Intel VT-x/EPT VirtualBox problema error" width="500" />
 
 ---
