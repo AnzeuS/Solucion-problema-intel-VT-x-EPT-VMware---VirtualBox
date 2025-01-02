@@ -39,7 +39,7 @@ Para resolver este problema, asumimos que la virtualización Intel ya está habi
    - Presione `Windows + R`, escriba `gpedit.msc` y busque la siguiente opción:
 
      ```
-     Configuración del equipo > Plantillas administrativas > Sistema > Virtualización > Desactivar Hyper-V
+     Configuración del equipo > Plantillas administrativas > Sistema > Proctecion de dispositivo > Desactivar Hyper-V
      ```
    - Desactívela.
 
