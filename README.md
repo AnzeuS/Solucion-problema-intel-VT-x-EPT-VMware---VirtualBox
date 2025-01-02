@@ -1,5 +1,15 @@
 # Solucion al problema de Intel VT-x/EPT en VMware y VirtualBox
 
+Esta guía describe como solucionar el problema relacionado con la opción de virtualizacion anidada que aparece en VMware y VirtualBox. Esta solución fue probada en Windows 11 Pro con un procesador Intel i5 12th generación.
+
+- VMware Workstation
+<img src="https://github.com/user-attachments/assets/ba3b7b48-b1bb-4af9-bb0c-085330b6de2e" alt="Intel VT-x/EPT VMware Issue" width="500" />
+
+- Oracle VirtualBox
+<img src="https://github.com/user-attachments/assets/981ecee1-af95-4696-a9bc-50f19d41efc9" alt="Intel VT-x/EPT VirtualBox Issue" width="500" />
+
+---
+
 ## Introducción
 Para resolver este problema, asumimos que la virtualización Intel ya está habilitada en la BIOS. Si el problema persiste, siga los pasos detallados a continuación.
 
