@@ -21,7 +21,7 @@ To solve this issue, we assume that Intel virtualization is already enabled in t
      Hypervisor has been detected. Features required for Hyper-V will not be displayed.
      ```
      
-     <img src="https://github.com/user-attachments/assets/2cdf744e-e9fa-4db4-9777-d78f2668ffb7" alt="Systeminfo Verification" width="500" />
+     <img src="https://github.com/user-attachments/assets/2cdf744e-e9fa-4db4-9777-d78f2668ffb7" alt="Systeminfo Verification" />
 
      proceed with the following steps.
 
@@ -85,7 +85,7 @@ Para resolver este problema, asumimos que la virtualización Intel ya está habi
      Hypervisor has been detected. Features required for Hyper-V will not be displayed.
      ```
 
-   <img src="https://github.com/user-attachments/assets/2cdf744e-e9fa-4db4-9777-d78f2668ffb7" alt="Systeminfo Verification" width="500" />
+   <img src="https://github.com/user-attachments/assets/2cdf744e-e9fa-4db4-9777-d78f2668ffb7" alt="Systeminfo Verification" />
      
      continúe con los siguientes pasos.
 
